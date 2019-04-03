@@ -1,0 +1,2 @@
+Lorem ipsum is a simple dummy text.
+John doe is a web application developer in new jersy.

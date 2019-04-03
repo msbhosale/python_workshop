@@ -1,0 +1,2 @@
+Sample text to write in a new file !
+Another text for append function
